@@ -79,9 +79,6 @@ public class Bishop extends Chesspiece {
 			mat[p.getRow()][p.getColumn()] = true;
 		}
 		
-		
-		
-		
 		return mat;
 	}
 
